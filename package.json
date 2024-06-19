@@ -1,0 +1,20 @@
+{
+  "name": "hackathon",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "backend API for the HackPuebla project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "download": "^8.0.0",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.3",
+    "openai": "^4.51.0"
+  }
+}
